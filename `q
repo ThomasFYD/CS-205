@@ -1,0 +1,332 @@
+[33mcommit 6bd3171974057fa9a786413fe4220d1c1aa9cab3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 24 12:29:19 2023 -0400
+
+    Login functionality implemented
+
+[33mcommit bab80847f45c5b5fe233ee0a7313803273d81cbf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 24 12:15:40 2023 -0400
+
+    User creation functionality
+
+[33mcommit 3640e21895bf100b72d80f75d0b96f9915fd24e1[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sat Apr 22 17:13:54 2023 -0400
+
+    connected createuser
+
+[33mcommit 8e775dacc43d5e29289769c09d48494b65b17256[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sat Apr 22 16:25:13 2023 -0400
+
+    Main window traversal
+
+[33mcommit 943fd86367f9f61afae87cd4732e2011e4e59d54[m
+Merge: 4608986 3097845
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sat Apr 22 14:53:24 2023 -0400
+
+    merging
+
+[33mcommit 46089865233b40b1055a77abb8d657e62e17788b[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sat Apr 22 14:51:04 2023 -0400
+
+    merging
+
+[33mcommit 3097845b4db853e1e740d2e98d4bd38d6873b4b5[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Wed Apr 19 14:16:01 2023 -0400
+
+    sorting by timestamp feature
+
+[33mcommit 4d6d445a627e8ebdc44c3cc9947b5a0615e375c1[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Wed Apr 19 04:46:11 2023 -0400
+
+    added hashtags to posts and started feed
+
+[33mcommit 2dce8c9f5075a962adb7a3bd4c26a3a466c470f1[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Tue Apr 18 15:19:32 2023 -0400
+
+    adding messaging implementation
+
+[33mcommit 7bb9e85557271d4f849e52da0f2c6604e3068212[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Tue Apr 18 10:36:52 2023 -0400
+
+    Added tests for moderation_manager
+
+[33mcommit 8c46729fdd8e9a7d8078922cc55e242079dea481[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 23:35:22 2023 -0400
+
+    minor commenting updates
+
+[33mcommit da3ea00019dbd0688127006ad7dd6d08dd77541b[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 23:24:53 2023 -0400
+
+    Tested auth_manager
+
+[33mcommit 8bd1513108c608b57197767e65ffb977b940b027[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 22:53:57 2023 -0400
+
+    Added the testing subproject for moderation and authentication
+
+[33mcommit 677a142f6ca255b3ff4e580cdbca5af52338b5f9[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 15:47:44 2023 -0400
+
+    Updated database, implemented moderator functionality
+
+[33mcommit 6e9ff48570e0a9a69ca78645ad40d75bcc52588d[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 15:10:00 2023 -0400
+
+    database update
+
+[33mcommit c694edb1f6ef3bf27030dadc51e371118cf7f2c3[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 12:05:44 2023 -0400
+
+    small changes in moderation_manager and main tests
+
+[33mcommit b24665fa8c4f445aa6d6bc7749e0eb35d3a571f2[m
+Merge: 99a33a1 efa6938
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 11:26:46 2023 -0400
+
+    Finalized UI design
+
+[33mcommit 99a33a1131ccd7c6d3dad0e8b9acb39387a6433d[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Mon Apr 17 11:22:02 2023 -0400
+
+    Added final UI designs
+
+[33mcommit efa6938e2de23656247a61df384884f2a504f544[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Mon Apr 17 01:58:13 2023 -0400
+
+    added 3 new ui
+
+[33mcommit 70c0fea53b6ed92ab4185780f8551d98aa2a5ba0[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 22:01:55 2023 -0400
+
+    Added most UI design
+
+[33mcommit beb7666f06fd74f4e1653948b9f4ff11e27384a5[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 20:10:34 2023 -0400
+
+    messaging and conversation
+
+[33mcommit f8032d5589fc02b2f86e9853f979b1fa47785ab4[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 19:56:58 2023 -0400
+
+    files for ui
+
+[33mcommit a2b64f509a133b1fca99c2ac340cc6a3625f4a31[m
+Merge: 5fc30ab 8e16706
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 19:48:01 2023 -0400
+
+    merge errors
+
+[33mcommit 5fc30ab8aaee240ca42987e89bfb1ae271e1a9cb[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 19:42:18 2023 -0400
+
+     message
+
+[33mcommit 8e1670602ba197fd4f7832e43daea1684e2b1498[m
+Merge: d3bd270 1d6b14d
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 19:41:39 2023 -0400
+
+    UI stuff
+
+[33mcommit d3bd270dc8b0e1fd78f988d12afb11146863d928[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 19:34:52 2023 -0400
+
+    Changes
+
+[33mcommit 1d6b14d9f6c3e3eef37ffc668c14e69828f8352f[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 19:32:56 2023 -0400
+
+    main feed ui
+
+[33mcommit d920dec98d621bb9fa5e91427806fbe267022282[m
+Merge: 32b4288 9939f74
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 19:32:14 2023 -0400
+
+    Merge branch 'master' of ssh://139.147.9.175:/home/groupAccnt/organized_project
+
+[33mcommit 32b4288a3cff88538819c24d5b322b13191a3448[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 19:32:11 2023 -0400
+
+    main feed ui
+
+[33mcommit 9939f744a187280a29091973926dc2b1808ff980[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 19:27:26 2023 -0400
+
+    Added image directory
+
+[33mcommit 3eba9cf5d77dc0b2c72669072c55ddf3350c688c[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 18:42:43 2023 -0400
+
+    UI subproject
+
+[33mcommit 1335e6559d27d2b8bf2a0fa752c7a3616243a7b5[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 18:24:14 2023 -0400
+
+    fixing transaction in posts
+
+[33mcommit 7f49ee5c5fad719fc2400001d8dd93aec3e8b5d5[m
+Merge: 25d8e94 9135f07
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 18:16:38 2023 -0400
+
+    merge error
+
+[33mcommit 25d8e9413855ecd6a7876c0bc5865261be13b6f3[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Sun Apr 16 18:15:59 2023 -0400
+
+    finished post
+
+[33mcommit 9135f07a4c9ce3d477c061fe8cd9ca92f4a6c540[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 17:22:27 2023 -0400
+
+    Added moderation_management implementation (most)
+
+[33mcommit e49821c43cad74891d8c935fa61e93871254845e[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 16:04:47 2023 -0400
+
+    Added moderation_managerr and moderator headers
+
+[33mcommit 1b05aca73df50e3d2c4e3fdc62f21653294ddf1b[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 15:18:08 2023 -0400
+
+    Updated database based on moderation requirements
+
+[33mcommit 03c1218654be85637ecd0a51fe9bda4a43a54c58[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 14:23:45 2023 -0400
+
+    removed redundant createUser
+
+[33mcommit 14bd18dae6738f9e1dad5b61e8f4fb48322c6c4b[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Sun Apr 16 14:18:23 2023 -0400
+
+    Enabled creating users by custom id
+
+[33mcommit 502532d68618ac1bd454aa1e13800f0a7ff7ff10[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Thu Apr 13 22:41:01 2023 -0400
+
+    changes to post
+
+[33mcommit b8b6c50d1a5972fea05b868ee9f129e5efa94027[m
+Merge: d0a436c e45ecfb
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Thu Apr 13 22:25:25 2023 -0400
+
+    fixing merge error
+
+[33mcommit d0a436c2d3120dfba9df964355bdd13efc574d24[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Thu Apr 13 22:19:52 2023 -0400
+
+    adding updated post class
+
+[33mcommit e45ecfb23148e6390cfb57aa0d6d2f25a2e6a022[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Thu Apr 13 22:07:30 2023 -0400
+
+    Converted Date to QString
+
+[33mcommit bc85690ca677e1b98934f2b70b5f938f45cd1daf[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Thu Apr 13 21:12:02 2023 -0400
+
+    updated database
+
+[33mcommit 1ae62b5c4880bd9b0b95158b239742acee6920df[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Thu Apr 13 18:06:56 2023 -0400
+
+    Added build_db
+
+[33mcommit efe5bb530fa1fec987e8e14d3437dc14a85d5ab8[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Thu Apr 13 15:12:49 2023 -0400
+
+    Added inline comments
+
+[33mcommit 89d93c0d229aafb0b999f163c8248a333eb7e888[m
+Merge: cbc48e8 70ff334
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Thu Apr 13 14:50:52 2023 -0400
+
+    Merge branch 'master' of 139.147.9.175:/home/groupAccnt/organized_project
+
+[33mcommit cbc48e857e57e85b413f3188ef0ab2cf90e365d5[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Thu Apr 13 14:50:34 2023 -0400
+
+    Finished Authorization backend (not testing)
+
+[33mcommit 70ff33471ea80083f7495f745ce91aa82c8a7bb6[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Thu Apr 13 14:02:55 2023 -0400
+
+    adding post
+
+[33mcommit 6bc3bb523437f6b6b7057b688df27bc6a6b67098[m
+Merge: 26ea961 fce7e2f
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Thu Apr 13 13:56:37 2023 -0400
+
+    Merge branch 'master' of ssh://139.147.9.175:/home/groupAccnt/organized_project
+
+[33mcommit 26ea961cad684a94f2ac5da80abae13915280e23[m
+Author: 904461629 <venkatev@lafayette.edu>
+Date:   Thu Apr 13 13:50:12 2023 -0400
+
+    added fish profile
+
+[33mcommit fce7e2fc15de6cc6aaf5d2a6533d535f6da3f60f[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Thu Apr 13 13:48:18 2023 -0400
+
+    Added usesr registration and authentication backend
+
+[33mcommit 1fd2ce69a718dbd8a7bf18400260b6bf6eb2dee7[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Wed Apr 12 16:51:25 2023 -0400
+
+    Connected database
+
+[33mcommit 40ddb41d3146f58eeaa4959d073a8b2b86d0cd99[m
+Author: geladzel <geladzel@lafayette.edu>
+Date:   Wed Apr 12 16:39:41 2023 -0400
+
+    Reorganized repo
